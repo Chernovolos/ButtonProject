@@ -2,8 +2,7 @@ import React from "react";
 
 class ButtonContainer extends React.Component {
     state = {
-        count : 0,
-        text : "count :"
+        count : 0
     };
 
     plusClick = () => {
