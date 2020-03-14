@@ -19,8 +19,6 @@ class HeaderContainer extends React.Component {
     };
 
     render(){
-        const activeLink = this.state;
-
         return (
             <div className="header-container">
                 <div className="container">
