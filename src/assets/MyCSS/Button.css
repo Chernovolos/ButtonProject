@@ -1,0 +1,39 @@
+.btn {
+    display: inline-block;
+    vertical-align: baseline;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 20px;
+    text-decoration: none;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    background-color: rgb(211, 211, 211);
+    color: black;
+    padding: 6px 12px;
+    margin: 0 20px;
+}
+
+.btn-success {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+.btn-warning {
+    background-color: #ffc107;
+    color: #fff;
+}
+
+.btn-sm {
+    padding: 5px 10px;
+    font-size: 12px;
+}
+
+.description {
+    margin: 16px 0;
+    color: white;
+}

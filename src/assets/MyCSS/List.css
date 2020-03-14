@@ -1,0 +1,35 @@
+.list-users {
+    font-size: 20px;
+    color: white;
+    text-align: initial;
+    margin-top: 20px;
+}
+
+.list-users > li {
+    padding-top: 10px;
+}
+
+
+.list-wrapper {
+    list-style: none;
+    text-align: left;
+    padding: 0;
+    margin-right: 20px;
+}
+
+.list-link > a{
+    color: #6c6c6c;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    text-decoration: none;
+}
+
+.list-link > a:hover {
+    color: lightblue;
+}
+
+.wrapper-users {
+    display: flex;
+    justify-content: center;
+}
